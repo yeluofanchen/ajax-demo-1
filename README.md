@@ -1,6 +1,6 @@
 # ajax
 
-```javascript
+```markdown
 node-dev server.js 8888
 ```
 
